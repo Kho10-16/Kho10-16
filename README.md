@@ -22,7 +22,7 @@ I'm a **Software Engineering** student at **Curtin University Malaysia**, workin
 
 ## 🚀 Projects
 
-- [**CHOCOLOCO**](https://github.com/Kho10-16/CHOCOLOCO): a website built with HTML and CSS for my MPU course
+- [**CHOCOLOCO**](https://github.com/Kho10-16/CHOCOLOCO): a website built with HTML and CSS for my MPU course · [**Live site**](https://kho10-16.github.io/CHOCOLOCO/)
 - [**C Contact Manager**](https://github.com/Kho10-16/c-contact-manager): a command-line contact book in C with dynamic memory (`realloc`), binary file persistence, and unit tests run under AddressSanitizer in CI
 - [**Rock Paper Scissors**](https://github.com/Kho10-16/rock-paper-scissors): a browser-console Rock Paper Scissors game written in vanilla JavaScript
 
